@@ -1,4 +1,4 @@
-# Decentralized-Voting-System-Using-Ethereum-Blockchain
+# Blockchain-Voting-System-Using-Ethereum
 
 ## Features
 -  Implements JWT for secure voter authentication and authorization.
